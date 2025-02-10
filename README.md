@@ -17,3 +17,6 @@ Always respond in Japanese
 ```
 
 ## Customize generate commit message
+
+
+to be continued...
